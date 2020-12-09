@@ -4,6 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
+Grade Obtained - 90% 
+
 PROJECT TITLE: StudentSearch
 
 PURPOSE OF PROJECT: To demonstrate your ability to design, code, and 
