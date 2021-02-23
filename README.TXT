@@ -1,14 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-Grade Obtained - 90.5% 
 
 PROJECT TITLE: StudentSearch
 
-PURPOSE OF PROJECT: To demonstrate your ability to design, code, and 
+PURPOSE OF PROJECT: To demonstrate my ability to design, code, and 
 implement a fully functional class with multiple constructors, and 
 to instantiate and store objects of that class in a Binary Search Tree (BST) structure.
 
